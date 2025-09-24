@@ -1,5 +1,5 @@
 const island_files = [
-    /*"aestrin/aestra_abbey",
+    "aestrin/aestra_abbey",
     "aestrin/firefly_grotto",
     "aestrin/eastwind_0",
     "aestrin/eastwind_1",
@@ -25,22 +25,22 @@ const island_files = [
     "aestrin/rocks/firefly_grotto_rocks",
     "aestrin/rocks/firefly_grotto_pillars",
     "aestrin/rocks/aestra_abbey_rocks",
-    "aestrin/rocks/fey_valley_rocks",*/
+    "aestrin/rocks/fey_valley_rocks",
 
     "alankh/alankh_academy",
     "alankh/albacore_town_0",
     "alankh/albacore_town_1",
-    //"alankh/alchemists_island_0",
-    //"alankh/alchemists_island_1",
-    //"alankh/alnilem",
+    "alankh/alchemists_island_0",
+    "alankh/alchemists_island_1",
+    "alankh/alnilem",
     "alankh/gold_rock_city_0",
     "alankh/gold_rock_city_1",
     "alankh/gold_rock_city_2",
-    //"alankh/isle_of_clear_mind",
-    //"alankh/lions_fang",
+    "alankh/isle_of_clear_mind",
+    "alankh/lions_fang",
     "alankh/neverdin",
-    //"alankh/oasis",
-    /*"alankh/cities/alankh_academy_city",
+    "alankh/oasis",
+    "alankh/cities/alankh_academy_city",
     "alankh/cities/albacore_town_city",
     "alankh/cities/alchemists_island_city",
     "alankh/cities/alnilem_city",
@@ -52,9 +52,9 @@ const island_files = [
     "alankh/rocks/alnilem_rock_1",
     "alankh/rocks/gold_rock_city_rock_0",
     "alankh/rocks/gold_rock_city_rock_1",
-    "alankh/rocks/oasis_rock",*/
+    "alankh/rocks/oasis_rock",
 
-    /*"bay/happy_bay_0",
+    "bay/happy_bay_0",
     "bay/happy_bay_1",
     "bay/happy_bay_city",
 
@@ -87,12 +87,12 @@ const island_files = [
     "firefish/senna",
     "firefish/cities/kicia_fire_fish_town_city",
     "firefish/cities/senna_onna_city",
-    "firefish/rocks/firefish_rock",*/
+    "firefish/rocks/firefish_rock",
 ]
 
 const secret_island_files = [
 
-    /*"aestrin/bone_isle",
+    "aestrin/bone_isle",
     "aestrin/cities/bone_isle_city",
     "aestrin/rock_of_despair",
 
@@ -102,7 +102,7 @@ const secret_island_files = [
 
     "chronos/chronos",
     "chronos/chronos_city",
-    "chronos/chronos_rock",*/
+    "chronos/chronos_rock",
 ]
 
 // was used to turn the polygon_definitions.js into separete files and download them

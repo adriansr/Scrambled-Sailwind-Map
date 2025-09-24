@@ -13,8 +13,8 @@ def update(data: dict, lat: float, lon: float) -> dict:
         d[1] += coord[1]
     d[0] /= len(c0)
     d[1] /= len(c0)
-    d[0] = lat - d[0]
-    d[1] = lon - d[1]
+    d[0] = lon - d[0]
+    d[1] = lat - d[1]
     for i in range(num_bodies):
         for j in range(len(c[i])):
             c[i][j][0] += d[0]
